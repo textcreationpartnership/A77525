@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Digbies speech in the House of Commons to the bill of attainder, of the Earle of Strafford, the 21 of April, 1641</title>
+            <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77525</idno>
+            <idno type="STC">Wing B4771</idno>
+            <idno type="STC">ESTC R20444</idno>
+            <idno type="EEBO-CITATION">38875743</idno>
+            <idno type="OCLC">ocm 38875743</idno>
+            <idno type="VID">152226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152226)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2286:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Digbies speech in the House of Commons to the bill of attainder, of the Earle of Strafford, the 21 of April, 1641</title>
+                  <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+               </titleStmt>
+               <extent>[2], 5 [i.e.12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Page 12 misnumbered 5.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+               <term>Trials (Treason) --  Great Britain.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152226:1" rendition="simple:additions"/>
+            <p>THE LORD DIGBIES SPEECH IN THE HOUSE OF <hi>COMMONS, To the Bill of Attainder, of the Earle of</hi> STRAFFORD, <hi>the</hi> 21 <hi>of</hi> APRIL, 1641.</p>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:152226:2"/>
+            <pb n="1" facs="tcp:152226:2"/>
+            <head>THE LORD <hi>DIGBYES</hi> Speech in the Houſe of Commons, to the Bill of Attainder of the Earle of <hi>Strafford,</hi> the 21. Aprill. 1641.</head>
+            <opener>
+               <salute>Master Speaker,</salute>
+            </opener>
+            <p>WE are now upon the poin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of giving (as much as in us lies) the finall Sen<g ref="char:EOLhyphen"/>tence unto death or life, on a great Miniſter of State and Peere of this Kingdome, <hi>Thomas</hi> Earle of <hi>Strafford;</hi> a name of hatred in the pre<g ref="char:EOLhyphen"/>ſent age by his Practizes, and fit to be made a terror to future ages by his puniſhment.</p>
+            <p>I have had the honor to be imployed by the Houſe in this great buſineſſe, from the firſt houre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that it was taken into conſideration: it was a matter of great truſt, (and I will ſay with confidence) that I have ſerved the Houſe in it with induſtry, according to my abili<g ref="char:EOLhyphen"/>ty, but with moſt exact faithfulneſſe and ſe<g ref="char:EOLhyphen"/>crecy.</p>
+            <pb n="2" facs="tcp:152226:3"/>
+            <p>And as I have hitherto diſcharged my duty to this Houſe and to my Country, in the pro<g ref="char:EOLhyphen"/>greſſe of this great Cauſe; ſo I truſt I ſhall doe now in the laſt period of it, to God and to a good conſcience.</p>
+            <p>I doe wiſh the peace of that unto my ſelfe, and the bleſſings of Almighty God to me and my poſterity, according as my judgement on the life of this man, ſhall be conſonant with my heart, and the beſt of my underſtanding in all integrity.</p>
+            <p>I know well Maſter Speaker, that by ſome things I have ſaid of late, whileſt this Bill was in agitation, I have raiſed ſome preju<g ref="char:EOLhyphen"/>dices upon me in the cauſe.</p>
+            <p>Yea ſome (I thanke them for the plaine dealing) have beene ſo free as to tell me, that I ſuffered much by the backwardneſſe I have ſhewn in this Bill of Attainder of the Earle of <hi>Strafford,</hi> againſt whom I had beene for<g ref="char:EOLhyphen"/>merly ſo keene, ſo active.</p>
+            <p>Maſter Speaker, I begge of you and the reſt but a ſuſpenſion of judgement concer<g ref="char:EOLhyphen"/>ning me, till I have opened my heart unto you freely and clearely in this buſineſſe.</p>
+            <p>Truely Sir, I am ſtill the ſame in my opi<g ref="char:EOLhyphen"/>nions and affections, as unto the Earle of <hi>Strafford,</hi> I confidently beleeve him the moſt
+<pb n="3" facs="tcp:152226:3"/>dangerous Miniſter, the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inſupportable to free ſubjects that can be characterd.</p>
+            <p>I beleeve his practices in themſelves as high, as tyrannicall, as any ſubject ever ventu<g ref="char:EOLhyphen"/>red on, and the malignity of them hugely aggravated by thoſe rare abilities of his, wher<g ref="char:EOLhyphen"/>of God hath given him the uſe, but the De<g ref="char:EOLhyphen"/>vill the application. In a word, I beleeve him ſtill that grand Apoſtate to the Common<g ref="char:EOLhyphen"/>wealth, who muſt not expect to be pardoned it in this world, till hee be diſpatch'd to the other. And yet let me tell you Maſter Spea<g ref="char:EOLhyphen"/>ker, my hand muſt not be to that diſpatch. I proteſt as my conſcience ſtands informed, I had rather it were off.</p>
+            <p>Let me unfold unto you the Myſterie, Ma<g ref="char:EOLhyphen"/>ſter Speaker.</p>
+            <p>I will not dwell much upon juſtifying unto you my ſeeming variance at this time from what I was formerly, by putting you in mind of the difference betweene proſecutors and Judges.</p>
+            <p>How misbecomming that fervour would be in a Judge which perhaps was commen<g ref="char:EOLhyphen"/>dable in a proſecutor. Judges wee are now, and muſt put on another perſonage.</p>
+            <p>It is honeſt and Noble, to be earneſt in or<g ref="char:EOLhyphen"/>der to the diſcovery of Truth, but when that
+<pb n="4" facs="tcp:152226:4"/>hath beene brought as far as it can to light, our judgement thereupon ought to be calme, and cautious.</p>
+            <p>In proſecution upon probable grounds, we are accountable onely for our induſtrie or remiſneſſe, but in judgement, we are deep<g ref="char:EOLhyphen"/>ly reſponſable to God Almighty, for its re<g ref="char:EOLhyphen"/>ctitude or obliquity. In caſes of life, the Judge is Gods Steward of the parties bloud, and muſt give a ſtrict account for every droppe.</p>
+            <p>But as I told you Maſter Speaker, I will not inſiſt long upon this ground of difference in me now, from what I was formerly.</p>
+            <p>The truth on't is Sir, the ſame ground whereupon I (with the reſt of the five to whom you firſt committed the conſiderati<g ref="char:EOLhyphen"/>on of my Lord of <hi>Strafford</hi>) brought downe our opinion, that it was fit he ſhould be ac<g ref="char:EOLhyphen"/>cuſed of Treaſon, upon the ſame ground I was ingaged with earneſtneſſe in his proſecu<g ref="char:EOLhyphen"/>tion, and had the ſame ground remained in that force of beliefe with me, which till verie lately it did, I ſhould not have beene tender in his condemnation. But truly Sir, to deale plainly with you, that ground of our accuſa<g ref="char:EOLhyphen"/>tion, that ſpurre to our proſecution, and that which ſhould be the baſis of my judge<g ref="char:EOLhyphen"/>ment,
+<pb n="5" facs="tcp:152226:4"/>of the Earle of <hi>Strafford,</hi> as unto Trea<g ref="char:EOLhyphen"/>ſon, is to my underſtanding quite vaniſht a<g ref="char:EOLhyphen"/>way.</p>
+            <p>This it was Maſter Speaker.</p>
+            <p>His adviſing the King to employ the Ar<g ref="char:EOLhyphen"/>my of <hi>Ireland,</hi> to reduce <hi>England.</hi>
+            </p>
+            <p>This I was aſſured would be proved, be<g ref="char:EOLhyphen"/>fore I gave my conſent to his accuſation. I was confirmed in the ſame beliefe, during the proſecution, and fortified in it moſt of all ſince <hi>Sir Henry V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> preparatory examinations, by the aſſurances which that worthy member Maſter <hi>Pymme</hi> gave me, that his Teſtimony would be made convincing by ſome notes of what paſſed at the <hi>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto</hi> con<g ref="char:EOLhyphen"/>current with it, which I ever underſtanding to be of ſome other Counſellour, you ſee now prove but a Copie of the ſame Secreta<g ref="char:EOLhyphen"/>ries notes, diſcover'd and produc't in the man<g ref="char:EOLhyphen"/>ner you have heard, and thoſe, ſuch diſjoyn<g ref="char:EOLhyphen"/>ted fragments of the venemous part of diſ<g ref="char:EOLhyphen"/>courſes, no reſults, no concluſions of Coun<g ref="char:EOLhyphen"/>cels, which are the onely things that Secreta<g ref="char:EOLhyphen"/>ries ſhould regiſter, there being no uſe at all of the other, but to accuſe and to bring men into danger.</p>
+            <p>But Sir, this is not that which over<g ref="char:EOLhyphen"/>throwes the evidence with me, concerning
+<pb n="6" facs="tcp:152226:5"/>the Armie of <hi>Ireland;</hi> nor yet that all the reſt of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon their oathes, remem<g ref="char:EOLhyphen"/>ber nothing of it.</p>
+            <p>But this <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I ſhall tell you, is that which <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> me under favour, to an utter overthrow of his evidence, as unto that of the Army of <hi>Ireland?</hi> Before, whil'ſt I was a proſecutor, and under tye of Secrecy; I might not diſcover any weakneſſe of the cauſe which now as a judge I muſt. Maſter Secretary was examined thrice upon oath, at the preparatory committee.</p>
+            <p>The firſt time he was queſtioned to all the <hi>Interrogat<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>,</hi> and to that part of the ſeventh which condemnes the Army of <hi>Ireland,</hi> he ſaid poſitively in theſe words, I cannot charge him with that. But for the reſt, he deſires time to recollect himſelfe, which was granted him.</p>
+            <p>Some dayes after, he was examined a ſe<g ref="char:EOLhyphen"/>cond time, and then depoſes theſe words concerning the Kings being abſolved from rules of government, and ſo forth very cleare<g ref="char:EOLhyphen"/>ly. But Being preiſt to that part, concerning the <hi>Iriſh</hi> Army, againe can ſay nothing to that.</p>
+            <p>Heere we thought we had done with him, till divers weeks after, my Lord of <hi>Northumber<g ref="char:EOLhyphen"/>land</hi> and all others of the <hi>Iunto,</hi> denying to
+<pb n="7" facs="tcp:152226:5"/>have heard any thing concerning thoſe words of reducing <hi>England</hi> by the <hi>Iriſh</hi> Army, it was thought fit to examine the Secretary once more, and then he depoſes theſe words, to have beene ſaid by the Earle of <hi>Strafford</hi> to his Majeſty: you have an Army in <hi>Ireland,</hi> which you may imploy heere to reduce, (or ſome word to that ſence) this Kingdome.</p>
+            <p>Maſter Speaker, theſe are the circumſtan<g ref="char:EOLhyphen"/>ces which I confeſſe with my Conſcience, thruſt quite out of doores that grand Article of our charge, concerning his deſperate ad<g ref="char:EOLhyphen"/>vice to the King, of employing the <hi>Iriſh</hi> Ar<g ref="char:EOLhyphen"/>mie heere.</p>
+            <p>Let not this I beſeech you, be driven to an aſperſion upon Maſter Secretary, as if he ſhould have ſworne otherwiſe then he knew or beleeved, he is too worthy to do that; one<g ref="char:EOLhyphen"/>ly let thus much be infer'd from it, that he who twice upon oath with time of recollecti<g ref="char:EOLhyphen"/>on, could not remember any thing of ſuch a buſineſſe, might well a third time miſremem<g ref="char:EOLhyphen"/>ber ſomewhat: and in this buſineſſe the diffe<g ref="char:EOLhyphen"/>rence of one Letter, here for there, or that for this, quite alters the caſe, the latter alſo being the more probable, ſince it is confeſt of all hands, that the debate then was concer<g ref="char:EOLhyphen"/>ning a war with <hi>Scotland,</hi> and you may re<g ref="char:EOLhyphen"/>member
+<pb n="8" facs="tcp:152226:6"/>that at the Bar he once ſaid to em<g ref="char:EOLhyphen"/>ploy there. And thus Maſter Speaker, I have faithfully given you an account what it is that hath blunted the edge of the Harchet or Bill with me towards my Lord of <hi>Straf<g ref="char:EOLhyphen"/>ford.</hi>
+            </p>
+            <p>This was that whereupon I accuſed him with a free heart, proſecuted him with earneſt<g ref="char:EOLhyphen"/>neſſe, and had it to my underſtanding bin pro<g ref="char:EOLhyphen"/>ved, ſhould have condemned him with inno<g ref="char:EOLhyphen"/>cence. Whereas now I cannot ſatisfie my conſcience to doe it.</p>
+            <p>I profeſſe I can have no notion of any bo<g ref="char:EOLhyphen"/>dies intent to ſubvert the Lawes treaſonably, but by force; and this deſigne of force not appearing, all his other wicked practiſes can<g ref="char:EOLhyphen"/>not amount ſo high with me.</p>
+            <p>I can find a more eaſie and more naturall ſpring, from whence to derive all his other Crimes, then from an intent to bring in Ty<g ref="char:EOLhyphen"/>ranny, and to make his owne poſterity, as well as us, Slaves; as from revenge, from Pride, from Avarice, from paſſion, and in<g ref="char:EOLhyphen"/>ſolence of nature.</p>
+            <p>But had this of the <hi>Iriſh</hi> Army beene pro<g ref="char:EOLhyphen"/>ved, it would have diffuſed a complexion of Treaſon over all, it would have beene a With indeed, to bind all thoſe other ſcattered and
+<pb n="9" facs="tcp:152226:6"/>leſſer branches, as it were into a faggot of Treaſon.</p>
+            <p>I doe not ſay but the reſt may repreſent him a man as worthy to dye, and perhaps worthier then many a Traytor. I doe not ſay but they may juſtly direct us to Enact that the like ſhall be Treaſon for the future.</p>
+            <p>But God keepe me from giving judgement of death on any Man, and of ruine to his in<g ref="char:EOLhyphen"/>nocent Poſterity, upon a Law made, <hi>à Poſte<g ref="char:EOLhyphen"/>riori.</hi>
+            </p>
+            <p>Let the marke be ſet on the dore where the Plague is, and then let him that will enter dye.</p>
+            <p>I know Maſter Speaker, there is in Par<g ref="char:EOLhyphen"/>liament a double power of life and death by Bill, a Judiciall power; and a Legiſlative: the meaſure of the one, is what's Legally juſt; of the other, what is prudentially and poli<g ref="char:EOLhyphen"/>tickly fit for the good and preſervation of the whole. But thoſe two, under favour, are not to be confounded in Judgement. Wee muſt not peece up want of Legality with matter of convenience, nor the defailance of prudentiall fitneſſe, with a pretence of legall Juſtice.</p>
+            <p>To condemne my Lord of <hi>Strafford</hi> judi<g ref="char:EOLhyphen"/>cially as for Treaſon, my conſcience is not
+<pb n="10" facs="tcp:152226:7"/>aſſured that the matter will beare it.</p>
+            <p>And to doe it by the Legiſlative power, my reaſon conſultively cannot agree to that, ſince I am perſwaded, neither the Lords nor the King will paſſe the Bill, and conſe<g ref="char:EOLhyphen"/>quently that our paſſing it, will be a cauſe of great diviſions and combuſtions in the State.</p>
+            <p>And therefore my humble adviſe is, that laying aſide this Bill of Attainder, wee may think of another, ſaving only life, ſuch as may ſecure the State from my Lord of <hi>Strafford,</hi> without endangering it, as much by diviſion concerning his puniſhment, as he hath en<g ref="char:EOLhyphen"/>dangerd it by his practices.</p>
+            <p>If this may not be hearkned unto, let me conclude in ſaying that unto you all, which <hi>I</hi> have throughly inculcated to mine owne conſcience upon this occaſion. Let every man lay his hand upon his heart, and ſadly conſider what wee are going to doe with a breath, either juſtice or murther; juſtice on the one ſide, or murther heightned and aggra<g ref="char:EOLhyphen"/>vated to its ſupremeſt extent. For as the Ca<g ref="char:EOLhyphen"/>ſuiſts ſay, that he who lyes with his ſiſter com<g ref="char:EOLhyphen"/>mits inceſt, but he that marries his ſiſter ſins higher, by applying Gods Ordinance to his crime: So doubtleſſe he that commits mur<g ref="char:EOLhyphen"/>ther
+<pb n="11" facs="tcp:152226:7"/>with the ſword of Juſtice, heightens that crime to the utmoſt.</p>
+            <p>The danger being ſo great, and the caſe ſo doubtfull, that I ſee the beſt Lawyers in dia<g ref="char:EOLhyphen"/>metrall oppoſition concerning it; Let every man wipe his heart as he does his eyes, when he would judge of a nice and ſubtile object. The eye if it be pretincted with any colour, is vitiated in its diſcerning. Let us take heed of a blood-ſhotten eye of Judgement.</p>
+            <p>Let every man purge his heart cleare of all paſſions, (I know this great and wiſe bo<g ref="char:EOLhyphen"/>dy politicke can have none, but I ſpeake to individuals from the weakeneſſe which I find in my ſelfe.) Away with all perſonall ani<g ref="char:EOLhyphen"/>moſities, away with all flatteries to the peo<g ref="char:EOLhyphen"/>ple, in being the ſharper againſt him, becauſe he is odious to them; away with all feares, leaſt by the ſparing his blood they may be incenſt; away with all ſuch conſiderations, as that it is not fit for a Parliament, that one accuſed by it of Treaſon ſhould eſcape with life.</p>
+            <p>Let not former vehemence of any againſt him, nor feare from thence, that he cannot be ſafe while that man lives, be an ingredient in the ſentence of any one of us.</p>
+            <p>Of all theſe corruptives of judgement, Ma<g ref="char:EOLhyphen"/>ſter
+<pb n="5" facs="tcp:152226:8" rendition="simple:additions"/>Speaker, I doe before God diſcharge my ſelfe to the uttermoſt of my power,</p>
+            <p>And do with a cleare Conſcience waſh my hands of this mans blood, by this ſolemne proteſtation, that my Vote goes not to the taking of the Earle of <hi>Straffords</hi> life.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152226:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
